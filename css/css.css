@@ -329,6 +329,8 @@ html {
   margin-top: 80px;
 }
 .portfolio .container .portofil .card{
+  width: 340px;
+  margin: auto;
   background-color: white;
   border-radius: 20px;
   -webkit-border-radius: 20px;
